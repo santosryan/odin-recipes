@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be to build a basic recipe website. The website will consist of a main index page which will then link to a few recipes. This project will be used to showcase the learned skills in the HTML Introduction of the The Odin Project course. 
